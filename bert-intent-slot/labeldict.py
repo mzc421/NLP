@@ -1,3 +1,9 @@
+# -*- coding:utf-8 -*-
+# @author: 木子川
+# @Email:  m21z50c71@163.com
+# @VX：fylaicai
+
+
 class LabelDict:
     def __init__(self, labels, unk_label='[UNK]'):
         self.unk_label = unk_label
